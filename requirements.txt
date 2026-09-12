@@ -1,0 +1,7 @@
+langchain 
+langchain-neo4j 
+langchain-groq 
+langchain-google-genai 
+neo4j
+python-dotenv
+graphviz
