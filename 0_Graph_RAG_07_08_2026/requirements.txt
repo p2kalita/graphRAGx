@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langgraph
+langchain-google-genai
+networkx
+pandas
+python-louvain
+rapidfuzz
+python-dotenv
+tqdm
